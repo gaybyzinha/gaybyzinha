@@ -15,8 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 -🤢 Atualmente estou estudando no: SESI/SENAI
-##  Ferramentas  e  tecn
+##  Ferramentas  e Tecnologia
 <br>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40"/>
-
 
