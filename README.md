@@ -17,7 +17,6 @@ Here are some ideas to get you started:
 -🤢 Atualmente estou estudando no: SESI/SENAI
 ##  Ferramentas  e  tecn
 <br>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/adonisjs/adonisjs-original.svg" />
-ghghgh
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40"/>
 
 
